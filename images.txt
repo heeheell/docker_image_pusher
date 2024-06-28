@@ -1,4 +1,1 @@
-docker
-alpine
-python
-nginx
+
